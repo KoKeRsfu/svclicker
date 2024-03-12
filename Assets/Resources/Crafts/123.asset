@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aa7db175f85eb74448f8b55be6b6aff4, type: 3}
+  m_Name: 123
+  m_EditorClassIdentifier: 
+  sprite: {fileID: 0}
+  oneTime: 1
+  unlocksOther: 1
+  craftingItemIdPool: 1c00000020000000220000000000000062000000
+  craftingQuantity: 64000000190000000500000014000000401f0000
+  craftingId: 103
+  unlockingId: 81000000

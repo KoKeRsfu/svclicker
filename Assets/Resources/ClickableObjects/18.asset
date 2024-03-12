@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5766ba910d0fddd47b0d88a0c75d169a, type: 3}
+  m_Name: 18
+  m_EditorClassIdentifier: 
+  sprite: {fileID: 1097127208, guid: 507f8e60d6cfcdd489bb4375dc820b89, type: 3}
+  health: 4
+  clickType: 1
+  skillType: 0
+  givingItemIdPool: 00000000
+  givingChance: 01000000
+  givingQuantityMin: 00000000
+  givingQuantityMax: 00000000
+  changingClickId: 19
